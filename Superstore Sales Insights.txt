@@ -1,0 +1,8 @@
+Superstore Sales Dashboard – Key Insights
+
+1. The West region recorded the highest total sales, especially in Q3, showing strong regional performance.
+
+2. Among product categories, Technology consistently generated the most revenue, indicating a high-demand trend.
+
+3. Sales peaked in December 2019, likely driven by end-of-year holiday promotions and bulk ordering.
+
