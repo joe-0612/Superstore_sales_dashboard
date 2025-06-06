@@ -13,7 +13,7 @@ This project demonstrates how to clean and analyze sales data using **Python (Pa
 - `Superstore_sales_cleaned.ipynb`: Jupyter Notebook for data cleaning
 - `cleaned_superstore_sales.csv`: Cleaned dataset used in Power BI
 - `Superstore Sales Dashboard by Joseph.pbix`: Final interactive dashboard
-- `screenshots/`:  Dashboard visual snapshots
+- `screenshots(119)`:  Dashboard visual snapshots
 
 ---
 
