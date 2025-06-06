@@ -14,6 +14,7 @@ This project demonstrates how to clean and analyze sales data using **Python (Pa
 - `cleaned_superstore_sales.csv`: Cleaned dataset used in Power BI
 - `Superstore Sales Dashboard by Joseph.pbix`: Final interactive dashboard
 - `screenshots(119)`:  Dashboard visual snapshots
+- 'Superstore Sales Insights.txt : 3 Insights after analyzing. 
 
 ---
 
